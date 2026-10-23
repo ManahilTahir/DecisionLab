@@ -1,0 +1,25 @@
+Order Date,Product,Category,Region,Units Sold,Unit Price,Revenue,Expenses,Customer
+2024-01-05,Laptop Pro,Electronics,North,12,1200,14400,9600,Acme Corp
+2024-01-08,Wireless Mouse,Electronics,South,45,25,1125,450,Globex
+2024-01-12,Office Chair,Furniture,East,20,180,3600,2200,Initech
+2024-01-15,Laptop Pro,Electronics,West,8,1200,9600,6400,Umbrella Inc
+2024-01-19,Desk Lamp,Furniture,North,30,45,1350,600,Soylent
+2024-01-22,USB-C Cable,Electronics,South,120,15,1800,720,Hooli
+2024-01-25,Standing Desk,Furniture,East,10,650,6500,4200,Stark Industries
+2024-02-02,Laptop Pro,Electronics,North,15,1200,18000,12000,Acme Corp
+2024-02-05,Wireless Mouse,Electronics,West,60,25,1500,600,Globex
+2024-02-09,Office Chair,Furniture,South,25,180,4500,2750,Initech
+2024-02-13,Monitor 27,Electronics,East,18,320,5760,3600,Umbrella Inc
+2024-02-17,Desk Lamp,Furniture,North,40,45,1800,800,Soylent
+2024-02-21,Standing Desk,Furniture,West,12,650,7800,5040,Stark Industries
+2024-03-03,Laptop Pro,Electronics,South,10,1200,12000,8000,Hooli
+2024-03-06,Monitor 27,Electronics,North,22,320,7040,4400,Acme Corp
+2024-03-10,Office Chair,Furniture,East,30,180,5400,3300,Initech
+2024-03-14,USB-C Cable,Electronics,West,150,15,2250,900,Globex
+2024-03-18,Standing Desk,Furniture,South,14,650,9100,5880,Stark Industries
+2024-03-22,Desk Lamp,Furniture,North,35,45,1575,700,Soylent
+2024-04-01,Laptop Pro,Electronics,East,18,1200,21600,14400,Umbrella Inc
+2024-04-05,Wireless Mouse,Electronics,North,80,25,2000,800,Hooli
+2024-04-09,Monitor 27,Electronics,South,25,320,8000,5000,Acme Corp
+2024-04-13,Office Chair,Furniture,West,28,180,5040,3080,Initech
+2024-04-17,Standing Desk,Furniture,East,16,650,10400,6720,Stark Industries

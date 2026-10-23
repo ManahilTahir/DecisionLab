@@ -1,0 +1,21 @@
+Project ID,Service Type,Client,Project Date,Revenue,Expenses,Status,Project Manager
+P1001,Electrical Estimation,Greenfield Builders,2024-01-10,18500,11200,Completed,Ahmed Raza
+P1002,Concrete Estimation,Apex Construction,2024-01-18,24300,15800,Completed,Bilal Ahmed
+P1003,Consulting,Stark Industries,2024-01-25,12000,4200,Completed,Sara Khan
+P1004,Electrical Estimation,Hillside Developments,2024-02-05,9800,6300,Completed,Usman Ali
+P1005,Concrete Estimation,Greenfield Builders,2024-02-14,31200,20100,Completed,Ahmed Raza
+P1006,Consulting,Globex,2024-02-22,8500,3000,Completed,Fatima Noor
+P1007,Electrical Estimation,Apex Construction,2024-03-02,15600,9800,Completed,Bilal Ahmed
+P1008,Project Management,Umbrella Inc,2024-03-11,22000,12500,In Progress,Ayesha Siddiqui
+P1009,Concrete Estimation,Hillside Developments,2024-03-19,27800,18200,Completed,Ahmed Raza
+P1010,Consulting,Stark Industries,2024-03-28,15000,5200,Completed,Sara Khan
+P1011,Electrical Estimation,Soylent Corp,2024-04-06,13400,8600,Completed,Usman Ali
+P1012,Project Management,Greenfield Builders,2024-04-15,28000,16000,In Progress,Ayesha Siddiqui
+P1013,Concrete Estimation,Apex Construction,2024-04-23,35600,23400,Completed,Bilal Ahmed
+P1014,Consulting,Hooli,2024-05-02,9200,3400,Completed,Fatima Noor
+P1015,Electrical Estimation,Initech,2024-05-12,16800,10700,Completed,Ahmed Raza
+P1016,Project Management,Stark Industries,2024-05-21,31000,17800,In Progress,Ayesha Siddiqui
+P1017,Concrete Estimation,Globex,2024-06-03,29400,19100,Completed,Bilal Ahmed
+P1018,Consulting,Umbrella Inc,2024-06-14,11000,3900,Completed,Sara Khan
+P1019,Electrical Estimation,Apex Construction,2024-06-22,19200,12300,Completed,Usman Ali
+P1020,Project Management,Hillside Developments,2024-07-01,26000,14900,In Progress,Ayesha Siddiqui
